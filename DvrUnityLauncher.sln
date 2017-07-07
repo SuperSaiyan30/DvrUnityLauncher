@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvrUnityLauncher.Plugins", "DvrUnityLauncher.Plugins.csproj", "{E2322E22-D246-DDD0-56CA-A454AB149CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvrUnityLauncher", "DvrUnityLauncher.csproj", "{E6E8C369-E692-E16B-D07A-0776DBF274B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvrUnityLauncher.Editor.Plugins", "DvrUnityLauncher.Editor.Plugins.csproj", "{111352EF-0E8D-CE73-8FE4-0A2078BEC8EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvrUnityLauncher.Editor", "DvrUnityLauncher.Editor.csproj", "{2F66E811-A171-218B-0C2C-DA0DB10034D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2322E22-D246-DDD0-56CA-A454AB149CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2322E22-D246-DDD0-56CA-A454AB149CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2322E22-D246-DDD0-56CA-A454AB149CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2322E22-D246-DDD0-56CA-A454AB149CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E8C369-E692-E16B-D07A-0776DBF274B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E8C369-E692-E16B-D07A-0776DBF274B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E8C369-E692-E16B-D07A-0776DBF274B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E8C369-E692-E16B-D07A-0776DBF274B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111352EF-0E8D-CE73-8FE4-0A2078BEC8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111352EF-0E8D-CE73-8FE4-0A2078BEC8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111352EF-0E8D-CE73-8FE4-0A2078BEC8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111352EF-0E8D-CE73-8FE4-0A2078BEC8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F66E811-A171-218B-0C2C-DA0DB10034D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F66E811-A171-218B-0C2C-DA0DB10034D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F66E811-A171-218B-0C2C-DA0DB10034D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F66E811-A171-218B-0C2C-DA0DB10034D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
